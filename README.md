@@ -1,11 +1,9 @@
-/*------------------------------------------------------------
   Project: Effect of DRUG A on Fasting Sugar – SAS Analysis
   Author: Shanmukha Sai Prakash Jeelakarra
   Description:
   This program merges two study datasets, performs random
   sampling, descriptive statistics, ANOVA/GLM analysis,
   and visualization to evaluate the effect of DRUG A.
-------------------------------------------------------------*/
 
 /*------------------------------------------------------------
   Step 1: Read Initial Study Dataset
